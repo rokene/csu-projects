@@ -1,6 +1,6 @@
-# csu-csc500-1
+# CSU Projects
 
-Programming Fundamentals Course
+This contains projects during my time at CSU for my Master's in AI and Machine Learning.
 
 ## Vagrant Environment
 
