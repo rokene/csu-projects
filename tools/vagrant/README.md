@@ -40,3 +40,9 @@ Shutdown vagrant box.
 Delete vagrant box.
 
 `vagrant destroy`
+
+### Install Plugins
+
+To install the vagrant disk management:
+
+`vagrant plugin install vagrant-disksize`
