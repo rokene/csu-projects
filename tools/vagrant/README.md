@@ -41,6 +41,10 @@ Delete vagrant box.
 
 `vagrant destroy`
 
+Resize Disk
+
+`vagrant disksize -s 500GB`
+
 ### Install Plugins
 
 To install the vagrant disk management:
