@@ -10,3 +10,6 @@
 [submodule "courses/csu-csc507-1"]
 	path = courses/csu-csc507-1
 	url = git@github.com:rokene/csu-csc507-1.git
+[submodule "courses/csu-csc510"]
+	path = courses/csu-csc510
+	url = git@github.com:rokene/csu-csc510-1.git
