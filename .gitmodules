@@ -22,3 +22,6 @@
 [submodule "courses/csc525-unity-pp-rlagents"]
 	path = courses/csc525-unity-pp-rlagents
 	url = git@github.com:rokene/unity-pp-rlagents.git
+[submodule "courses/csu-csc580"]
+	path = courses/csu-csc580
+	url = git@github.com:rokene/csu-csc580.git
